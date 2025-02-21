@@ -227,7 +227,7 @@ export const externalConfig = [{
     }, {
         label: 'ssrCloud',
         value: 'https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/ssrcloud.ini'
-    }，{
+    }, {
         label: '不良林提供',
         value: 'https://gh.19981115.xyz/https://raw.githubusercontent.com/bulianglin/demo/main/nodnsleak.ini'
     }]
