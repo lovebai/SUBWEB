@@ -54,6 +54,9 @@ export const targetConfig = [{
     value: 'loon'
 }];
 export const backendConfig = [{
+    label: 'sub.ucds.me(自用后端)',
+    value: 'https://sub.ucds.me/sub?'
+},{
     label: 'subapi.cmliussss.net(CM提供-负载均衡后端)',
     value: 'https://subapi.cmliussss.net/sub?'
 }, {
@@ -224,6 +227,9 @@ export const externalConfig = [{
     }, {
         label: 'ssrCloud',
         value: 'https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/ssrcloud.ini'
+    }，{
+        label: '不良林提供',
+        value: 'https://gh.19981115.xyz/https://raw.githubusercontent.com/bulianglin/demo/main/nodnsleak.ini'
     }]
 }, {
     label: 'Special',
